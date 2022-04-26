@@ -31,8 +31,8 @@ public class DragAndDrop {
     }
 
     @Test
-    void ActionTest() {
-//         Selenide.actions().moveToElement(a).clickAndHold().moveToElement(b).release().build().perform();
+    void actionTest() {
+//         Selenide.actions().moveToElement(a).clickAndHold().moveToElement(b).release().perform();
 //         Selenide.actions().moveToElement(a).clickAndHold().moveByOffset(250, 0).release().perform();
 //        Selenide.actions().clickAndHold(a).moveToElement(b).release().perform();
 
